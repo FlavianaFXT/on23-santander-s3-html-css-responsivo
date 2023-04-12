@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: 'Alkatra', cursive;
+    padding: 20px;
+}
+
+h1{
+    color: aliceblue;
+    padding: 2em;
+}
+
+p{
+    font-family: 'Alkatra', cursive;
+    color: aliceblue;
+}
+
+.img-jalapao{
+    width: 200%;
+    height: auto;
+    max-width: 200%;
+}
